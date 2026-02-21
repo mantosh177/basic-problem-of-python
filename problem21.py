@@ -1,4 +1,4 @@
-# wap to take iput from the user and print the avg.
+# wap to take a,b & c as input from the user and print the avg.
 
 def avg():
     a =int(input("Enter a number : "))
